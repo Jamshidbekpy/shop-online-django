@@ -1,0 +1,29 @@
+{
+    "material-icon-theme.folders.customClones": [
+      {
+        "name": "users-auth",
+        "base": "admin",
+        "color": "blue-500",
+        "lightColor": "blue-700",
+        "folderNames": ["accounts"],
+        "rootFolderNames": ["apps"]
+      },
+      {
+        "name": "js",
+        "base": "javascript",
+        "color": "green-800",
+        "lightColor": "green-200",
+        "folderNames": ["styjs"],
+        "rootFolderNames": ["static"]
+      },
+      {
+        "name": "css",
+        "base": "css",
+        "color": "blue-800",
+        "lightColor": "blue-200",
+        "folderNames": ["stycss"],
+        "rootFolderNames": ["static"]
+      }
+     
+    ]
+  }
